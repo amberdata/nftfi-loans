@@ -4,7 +4,7 @@
 
 Please feel free to clone this repo and do your own analysis. 
 
-:rocket:  We would love to see what you come up with. Open an issues or PR if you have an analysis you would like to share with this data. 
+:rocket:  We would love to see what you come up with. Open an issue or PR if you have an analysis you would like to share :rocket: 
 
 ### Amberdata API 
 This data was queried from the Amberdata API - Endpoint [get-address-logs](https://docs.amberdata.io/reference/get-address-logs)
